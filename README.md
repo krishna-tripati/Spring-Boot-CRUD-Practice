@@ -48,26 +48,23 @@ Practise entity and repository concepts. <br>
 
 Java, Spring Boot, Spring Data JPA, Hibernate, MySQL, Maven, REST APIs, Postman, IntelliJ IDEA  <br>
 
- Concepts Learned <br>
+📚 Concepts Learned <br>
 
 Spring Boot project structure <br>
-
 RESTful API development <br>
-
 HTTP methods (GET, POST, PUT, DELETE) <br>
-
 CRUD operations <br>
-
 Controller, Service, and Repository layers <br>
-
 Dependency Injection <br>
-
 Spring Data JPA <br>
-
-Entity mapping and ORM concepts <br>
-
+Entity mapping and ORM concepts <br> 
 Database connectivity <br>
-
 Maven dependency management <br>
+
+🎯 Learning Objective  <br>
+
+These projects are developed for learning and practising Spring Boot backend development. Each project helped me improve my understanding of REST APIs, CRUD functionality, application architecture, and database operations.
+
+
 
 API testing using Postman <br>
