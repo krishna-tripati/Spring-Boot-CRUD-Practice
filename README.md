@@ -28,7 +28,7 @@ Manage employee details. <br>
 
 Understand basic CRUD logic without database integration. <br>
 
-4. Product Inventory Management <br>
+4. Product Inventory Management (With Database) <br>
 
 Manage product inventory details. <br>
  
