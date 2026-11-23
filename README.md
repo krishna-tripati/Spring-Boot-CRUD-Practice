@@ -60,11 +60,10 @@ Spring Data JPA <br>
 Entity mapping and ORM concepts <br> 
 Database connectivity <br>
 Maven dependency management <br>
+API testing using Postman <br>
 
 🎯 Learning Objective  <br>
 
 These projects are developed for learning and practising Spring Boot backend development. Each project helped me improve my understanding of REST APIs, CRUD functionality, application architecture, and database operations.
 
 
-
-API testing using Postman <br>
